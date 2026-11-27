@@ -1,0 +1,2 @@
+# Product charter
+Product ID, name, portfolio, owner, users, problem, outcomes and KPIs, capabilities, architecture, dependencies, lifecycle, roadmap, operating cost, risks, support and retirement criteria. Keep sensitive details in an access-controlled register.
