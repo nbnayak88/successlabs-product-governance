@@ -1,0 +1,2 @@
+# Connection evidence
+Product ID / name / repository / selected branch / Lovable SHA / GitHub branch SHA / timestamp / evidence source / status (verified, divergent, candidate, unknown, disconnected with evidence) / dependency findings / next action. Never publish private repository identifiers or secrets.
