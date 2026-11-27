@@ -1,0 +1,2 @@
+# Change management
+Discover → Design → Approval → Build → Test → Review → Merge → Release approval → Monitor. Every change needs product ID, issue, owner, scope, acceptance criteria, approved cost, target branch and rollback plan. Default to GitHub feature branches. Test Lovable sync and branch protection on a pilot before enforcing broadly. No production deployment implied by merge approval. Never batch paid generation. Record commit, test evidence, release and actual cost. No changes authorized by this governance setup.
