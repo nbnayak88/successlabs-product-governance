@@ -1,0 +1,2 @@
+# AI expenditure incident — governance summary
+Status: reported; root cause unverified. Unexpected AI development expenditure was reported after a broad multi-project instruction. Do not assume Git synchronization itself consumed generation credits. Investigate billing history and agent execution records privately. Preventive actions: explicit scope approval, one paid build at a time, no automatic retries, read-only audits, before/after credit reconciliation. Do not publish confidential billing evidence.
