@@ -1,0 +1,23 @@
+{
+  "date": "2026-11-27",
+  "gross": 2838,
+  "reconciled_provisional": 2830,
+  "overlaps": 8,
+  "platforms": {
+    "Lovable": 82,
+    "Google AI Studio": 33,
+    "Claude": 14,
+    "ChatGPT": 94,
+    "Vercel": 3,
+    "GitHub Pages": 2612
+  },
+  "github": {
+    "repositories_checked": 104,
+    "published_repositories": 15,
+    "child": 1548,
+    "parent_and_child": 1049,
+    "parent_only": 9,
+    "standalone": 6
+  },
+  "method": "Seven ChatGPT website URLs overlap GitHub Pages; one repeated imported website URL. Lovable URL matching and product-level identity pending."
+}
