@@ -1,0 +1,744 @@
+{
+  "snapshot": "2026-11-27",
+  "source": "Lovable workspace read-only listing",
+  "products": [
+    {
+      "id": "SLA-001",
+      "name": "Hr02 Sr Run Ops",
+      "portfolio": "Additional projects",
+      "published": true,
+      "git_status": "Screenshot confirmed; recheck pending",
+      "repository": "nbnayak88/hr02-sr-run-ops",
+      "lifecycle": "Unassessed"
+    },
+    {
+      "id": "SLA-002",
+      "name": "L08. Quality Assurance Lab",
+      "portfolio": "SuperLabs",
+      "published": true,
+      "git_status": "Unverified",
+      "repository": null,
+      "lifecycle": "Unassessed"
+    },
+    {
+      "id": "SLA-003",
+      "name": "L17. Knowledge Keystone Lab (KKL) - Document",
+      "portfolio": "SuperLabs",
+      "published": true,
+      "git_status": "Unverified",
+      "repository": null,
+      "lifecycle": "Unassessed"
+    },
+    {
+      "id": "SLA-004",
+      "name": "L05. Implementation Intelligence Lab",
+      "portfolio": "SuperLabs",
+      "published": true,
+      "git_status": "Unverified",
+      "repository": null,
+      "lifecycle": "Unassessed"
+    },
+    {
+      "id": "SLA-005",
+      "name": "L12. Presales Precision Lab (PSL) - Influence",
+      "portfolio": "SuperLabs",
+      "published": true,
+      "git_status": "Unverified",
+      "repository": null,
+      "lifecycle": "Unassessed"
+    },
+    {
+      "id": "SLA-006",
+      "name": "L10. Certification Command Lab (CCL) - Prove",
+      "portfolio": "SuperLabs",
+      "published": true,
+      "git_status": "Unverified",
+      "repository": null,
+      "lifecycle": "Unassessed"
+    },
+    {
+      "id": "SLA-007",
+      "name": "L06. Migration Modernization Lab",
+      "portfolio": "SuperLabs",
+      "published": true,
+      "git_status": "Unverified",
+      "repository": null,
+      "lifecycle": "Unassessed"
+    },
+    {
+      "id": "SLA-008",
+      "name": "L11. School of Career Acceleration Lab for Excellence",
+      "portfolio": "SuperLabs",
+      "published": true,
+      "git_status": "Unverified",
+      "repository": null,
+      "lifecycle": "Unassessed"
+    },
+    {
+      "id": "SLA-009",
+      "name": "L14. Product Prototyping Lab (PPL)",
+      "portfolio": "SuperLabs",
+      "published": true,
+      "git_status": "Unverified",
+      "repository": null,
+      "lifecycle": "Unassessed"
+    },
+    {
+      "id": "SLA-010",
+      "name": "L16. Media & Content Lab (MCL) - Share",
+      "portfolio": "SuperLabs",
+      "published": true,
+      "git_status": "Unverified",
+      "repository": null,
+      "lifecycle": "Unassessed"
+    },
+    {
+      "id": "SLA-011",
+      "name": "L19.  Global Industry Intelligence Lab (GIL)",
+      "portfolio": "SuperLabs",
+      "published": true,
+      "git_status": "Unverified",
+      "repository": null,
+      "lifecycle": "Unassessed"
+    },
+    {
+      "id": "SLA-012",
+      "name": "L18. Experts Engagement Lab (EEL) - Engage",
+      "portfolio": "SuperLabs",
+      "published": true,
+      "git_status": "Unverified",
+      "repository": null,
+      "lifecycle": "Unassessed"
+    },
+    {
+      "id": "SLA-013",
+      "name": "L02.Process Excellence Lab",
+      "portfolio": "SuperLabs",
+      "published": true,
+      "git_status": "Unverified",
+      "repository": null,
+      "lifecycle": "Unassessed"
+    },
+    {
+      "id": "SLA-014",
+      "name": "L09. Application Management Services Lab",
+      "portfolio": "SuperLabs",
+      "published": true,
+      "git_status": "Unverified",
+      "repository": null,
+      "lifecycle": "Unassessed"
+    },
+    {
+      "id": "SLA-015",
+      "name": "L13. Project Performance Lab (PPL) - Lead",
+      "portfolio": "SuperLabs",
+      "published": true,
+      "git_status": "Unverified",
+      "repository": null,
+      "lifecycle": "Unassessed"
+    },
+    {
+      "id": "SLA-016",
+      "name": "L03.Strategy & Architecture Lab",
+      "portfolio": "SuperLabs",
+      "published": true,
+      "git_status": "Unverified",
+      "repository": null,
+      "lifecycle": "Unassessed"
+    },
+    {
+      "id": "SLA-017",
+      "name": "L04.Operations Optimization Lab",
+      "portfolio": "SuperLabs",
+      "published": true,
+      "git_status": "Unverified",
+      "repository": null,
+      "lifecycle": "Unassessed"
+    },
+    {
+      "id": "SLA-018",
+      "name": "L20. Research & Innovation Lab",
+      "portfolio": "SuperLabs",
+      "published": true,
+      "git_status": "Unverified",
+      "repository": null,
+      "lifecycle": "Unassessed"
+    },
+    {
+      "id": "SLA-019",
+      "name": "L07. Integration Excellence Lab",
+      "portfolio": "SuperLabs",
+      "published": true,
+      "git_status": "Unverified",
+      "repository": null,
+      "lifecycle": "Unassessed"
+    },
+    {
+      "id": "SLA-020",
+      "name": "L15. Emerging Technologies Lab (ETL) - EVOLVE",
+      "portfolio": "SuperLabs",
+      "published": true,
+      "git_status": "Unverified",
+      "repository": null,
+      "lifecycle": "Unassessed"
+    },
+    {
+      "id": "SLA-021",
+      "name": "Talent Excellence Hub",
+      "portfolio": "Additional projects",
+      "published": false,
+      "git_status": "Unverified",
+      "repository": null,
+      "lifecycle": "Unassessed"
+    },
+    {
+      "id": "SLA-022",
+      "name": "Arch Navigator",
+      "portfolio": "Additional projects",
+      "published": true,
+      "git_status": "Unverified",
+      "repository": null,
+      "lifecycle": "Unassessed"
+    },
+    {
+      "id": "SLA-023",
+      "name": "SAP SF EC Payroll UAE Workbook Journal",
+      "portfolio": "Payroll",
+      "published": true,
+      "git_status": "Unverified",
+      "repository": null,
+      "lifecycle": "Unassessed"
+    },
+    {
+      "id": "SLA-024",
+      "name": "SAP SF EC Payroll UK Workbook Journal",
+      "portfolio": "Payroll",
+      "published": true,
+      "git_status": "Unverified",
+      "repository": null,
+      "lifecycle": "Unassessed"
+    },
+    {
+      "id": "SLA-025",
+      "name": "SuperSprint 20",
+      "portfolio": "SuperLabs",
+      "published": true,
+      "git_status": "Unverified",
+      "repository": null,
+      "lifecycle": "Unassessed"
+    },
+    {
+      "id": "SLA-026",
+      "name": "Consulting Navigator",
+      "portfolio": "Additional projects",
+      "published": true,
+      "git_status": "Unverified",
+      "repository": null,
+      "lifecycle": "Unassessed"
+    },
+    {
+      "id": "SLA-027",
+      "name": "Transformation Saturday",
+      "portfolio": "Webinars",
+      "published": true,
+      "git_status": "Unverified",
+      "repository": null,
+      "lifecycle": "Unassessed"
+    },
+    {
+      "id": "SLA-028",
+      "name": "SuccessLabs Product Roadmap",
+      "portfolio": "Product applications",
+      "published": true,
+      "git_status": "Unverified",
+      "repository": null,
+      "lifecycle": "Unassessed"
+    },
+    {
+      "id": "SLA-029",
+      "name": "Source Sunday Leadership",
+      "portfolio": "Webinars",
+      "published": true,
+      "git_status": "Unverified",
+      "repository": null,
+      "lifecycle": "Unassessed"
+    },
+    {
+      "id": "SLA-030",
+      "name": "Supply Chain Friday",
+      "portfolio": "Webinars",
+      "published": true,
+      "git_status": "Unverified",
+      "repository": null,
+      "lifecycle": "Unassessed"
+    },
+    {
+      "id": "SLA-031",
+      "name": "L01. Product Innovation Lab",
+      "portfolio": "SuperLabs",
+      "published": true,
+      "git_status": "Unverified",
+      "repository": null,
+      "lifecycle": "Unassessed"
+    },
+    {
+      "id": "SLA-032",
+      "name": "Finance Wednesday",
+      "portfolio": "Webinars",
+      "published": true,
+      "git_status": "Unverified",
+      "repository": null,
+      "lifecycle": "Unassessed"
+    },
+    {
+      "id": "SLA-033",
+      "name": "Webinar Architect Pro",
+      "portfolio": "Additional projects",
+      "published": true,
+      "git_status": "Unverified",
+      "repository": null,
+      "lifecycle": "Unassessed"
+    },
+    {
+      "id": "SLA-034",
+      "name": "Revenue Tuesday",
+      "portfolio": "Webinars",
+      "published": true,
+      "git_status": "Unverified",
+      "repository": null,
+      "lifecycle": "Unassessed"
+    },
+    {
+      "id": "SLA-035",
+      "name": "Workforce Monday",
+      "portfolio": "Webinars",
+      "published": true,
+      "git_status": "Unverified",
+      "repository": null,
+      "lifecycle": "Unassessed"
+    },
+    {
+      "id": "SLA-036",
+      "name": "Procurement Thursday",
+      "portfolio": "Webinars",
+      "published": true,
+      "git_status": "Unverified",
+      "repository": null,
+      "lifecycle": "Unassessed"
+    },
+    {
+      "id": "SLA-037",
+      "name": "SuccessLabs EA Studio",
+      "portfolio": "Additional projects",
+      "published": true,
+      "git_status": "Unverified",
+      "repository": null,
+      "lifecycle": "Unassessed"
+    },
+    {
+      "id": "SLA-038",
+      "name": "Live Experience (Live X)  Orchestrator",
+      "portfolio": "Prototypes",
+      "published": true,
+      "git_status": "Unverified",
+      "repository": null,
+      "lifecycle": "Unassessed"
+    },
+    {
+      "id": "SLA-039",
+      "name": "Architecting Futures",
+      "portfolio": "Product applications",
+      "published": true,
+      "git_status": "Unverified",
+      "repository": null,
+      "lifecycle": "Unassessed"
+    },
+    {
+      "id": "SLA-040",
+      "name": "Speaker Panel Discussion",
+      "portfolio": "Additional projects",
+      "published": true,
+      "git_status": "Unverified",
+      "repository": null,
+      "lifecycle": "Unassessed"
+    },
+    {
+      "id": "SLA-041",
+      "name": "Talent Scout AI",
+      "portfolio": "Additional projects",
+      "published": true,
+      "git_status": "Unverified",
+      "repository": null,
+      "lifecycle": "Unassessed"
+    },
+    {
+      "id": "SLA-042",
+      "name": "SAP Mission Agent Led tool chain",
+      "portfolio": "Additional projects",
+      "published": false,
+      "git_status": "Unverified",
+      "repository": null,
+      "lifecycle": "Unassessed"
+    },
+    {
+      "id": "SLA-043",
+      "name": "Mission SAP Architect",
+      "portfolio": "Additional projects",
+      "published": true,
+      "git_status": "Unverified",
+      "repository": null,
+      "lifecycle": "Unassessed"
+    },
+    {
+      "id": "SLA-044",
+      "name": "Enterprise Audit Lab",
+      "portfolio": "Prototypes",
+      "published": true,
+      "git_status": "Unverified",
+      "repository": null,
+      "lifecycle": "Unassessed"
+    },
+    {
+      "id": "SLA-045",
+      "name": "Learning Journey Builder",
+      "portfolio": "Additional projects",
+      "published": true,
+      "git_status": "Unverified",
+      "repository": null,
+      "lifecycle": "Unassessed"
+    },
+    {
+      "id": "SLA-046",
+      "name": "SLA Webinar Lead System",
+      "portfolio": "Additional projects",
+      "published": false,
+      "git_status": "Unverified",
+      "repository": null,
+      "lifecycle": "Unassessed"
+    },
+    {
+      "id": "SLA-047",
+      "name": "Remix of Webinar Selling Formula",
+      "portfolio": "Additional projects",
+      "published": false,
+      "git_status": "Unverified",
+      "repository": null,
+      "lifecycle": "Unassessed"
+    },
+    {
+      "id": "SLA-048",
+      "name": "ArchitectCircle",
+      "portfolio": "Additional projects",
+      "published": true,
+      "git_status": "Unverified",
+      "repository": null,
+      "lifecycle": "Unassessed"
+    },
+    {
+      "id": "SLA-049",
+      "name": "ProductBridge: Connect Feedback & Vision",
+      "portfolio": "Product applications",
+      "published": false,
+      "git_status": "Unverified",
+      "repository": null,
+      "lifecycle": "Unassessed"
+    },
+    {
+      "id": "SLA-050",
+      "name": "AI Architecture Lab",
+      "portfolio": "Additional projects",
+      "published": true,
+      "git_status": "Unverified",
+      "repository": null,
+      "lifecycle": "Unassessed"
+    },
+    {
+      "id": "SLA-051",
+      "name": "Remix of Roadmapper",
+      "portfolio": "Product applications",
+      "published": false,
+      "git_status": "Unverified",
+      "repository": null,
+      "lifecycle": "Unassessed"
+    },
+    {
+      "id": "SLA-052",
+      "name": "Anna Suraksha Builder",
+      "portfolio": "Other applications",
+      "published": false,
+      "git_status": "Unverified",
+      "repository": null,
+      "lifecycle": "Unassessed"
+    },
+    {
+      "id": "SLA-053",
+      "name": "Wisdom Canvas",
+      "portfolio": "Other applications",
+      "published": false,
+      "git_status": "Unverified",
+      "repository": null,
+      "lifecycle": "Unassessed"
+    },
+    {
+      "id": "SLA-054",
+      "name": "Talent Architect Accelerator",
+      "portfolio": "Additional projects",
+      "published": false,
+      "git_status": "Unverified",
+      "repository": null,
+      "lifecycle": "Unassessed"
+    },
+    {
+      "id": "SLA-055",
+      "name": "SkillSpark Hub",
+      "portfolio": "Additional projects",
+      "published": true,
+      "git_status": "Unverified",
+      "repository": null,
+      "lifecycle": "Unassessed"
+    },
+    {
+      "id": "SLA-056",
+      "name": "Payroll Transformation Knowledge System Architect",
+      "portfolio": "Additional projects",
+      "published": true,
+      "git_status": "Unverified",
+      "repository": null,
+      "lifecycle": "Unassessed"
+    },
+    {
+      "id": "SLA-057",
+      "name": "Aahnik's Wonder Gallery",
+      "portfolio": "Additional projects",
+      "published": true,
+      "git_status": "Unverified",
+      "repository": null,
+      "lifecycle": "Unassessed"
+    },
+    {
+      "id": "SLA-058",
+      "name": "ALL IN ONE EA Dashboard",
+      "portfolio": "Additional projects",
+      "published": true,
+      "git_status": "Unverified",
+      "repository": null,
+      "lifecycle": "Unassessed"
+    },
+    {
+      "id": "SLA-059",
+      "name": "SuccessLabs Hackathon Hub",
+      "portfolio": "Additional projects",
+      "published": false,
+      "git_status": "Unverified",
+      "repository": null,
+      "lifecycle": "Unassessed"
+    },
+    {
+      "id": "SLA-060",
+      "name": "Old_The Process Lab",
+      "portfolio": "SuperLabs",
+      "published": true,
+      "git_status": "Unverified",
+      "repository": null,
+      "lifecycle": "Unassessed"
+    },
+    {
+      "id": "SLA-061",
+      "name": "Industry Scenario Explorer",
+      "portfolio": "Additional projects",
+      "published": true,
+      "git_status": "Unverified",
+      "repository": null,
+      "lifecycle": "Unassessed"
+    },
+    {
+      "id": "SLA-062",
+      "name": "Transformation Command Center (89)",
+      "portfolio": "Additional projects",
+      "published": true,
+      "git_status": "Unverified",
+      "repository": null,
+      "lifecycle": "Unassessed"
+    },
+    {
+      "id": "SLA-063",
+      "name": "Physics Coach Pro",
+      "portfolio": "Additional projects",
+      "published": false,
+      "git_status": "Unverified",
+      "repository": null,
+      "lifecycle": "Unassessed"
+    },
+    {
+      "id": "SLA-064",
+      "name": "EA Dashboard Healthcare",
+      "portfolio": "Additional projects",
+      "published": true,
+      "git_status": "Unverified",
+      "repository": null,
+      "lifecycle": "Unassessed"
+    },
+    {
+      "id": "SLA-065",
+      "name": "Sohna Spiritual Path",
+      "portfolio": "Additional projects",
+      "published": false,
+      "git_status": "Unverified",
+      "repository": null,
+      "lifecycle": "Unassessed"
+    },
+    {
+      "id": "SLA-066",
+      "name": "Transformation Compass",
+      "portfolio": "Additional projects",
+      "published": true,
+      "git_status": "Unverified",
+      "repository": null,
+      "lifecycle": "Unassessed"
+    },
+    {
+      "id": "SLA-067",
+      "name": "Time Weaver Universe",
+      "portfolio": "Additional projects",
+      "published": true,
+      "git_status": "Unverified",
+      "repository": null,
+      "lifecycle": "Unassessed"
+    },
+    {
+      "id": "SLA-068",
+      "name": "CorpComm EA Hub",
+      "portfolio": "Additional projects",
+      "published": true,
+      "git_status": "Unverified",
+      "repository": null,
+      "lifecycle": "Unassessed"
+    },
+    {
+      "id": "SLA-069",
+      "name": "EA Dashboard Utility",
+      "portfolio": "Additional projects",
+      "published": true,
+      "git_status": "Unverified",
+      "repository": null,
+      "lifecycle": "Unassessed"
+    },
+    {
+      "id": "SLA-070",
+      "name": "Transformation Command Center",
+      "portfolio": "Additional projects",
+      "published": false,
+      "git_status": "Unverified",
+      "repository": null,
+      "lifecycle": "Unassessed"
+    },
+    {
+      "id": "SLA-071",
+      "name": "Research Council",
+      "portfolio": "Additional projects",
+      "published": true,
+      "git_status": "Unverified",
+      "repository": null,
+      "lifecycle": "Unassessed"
+    },
+    {
+      "id": "SLA-072",
+      "name": "Portfolio Nexus",
+      "portfolio": "Additional projects",
+      "published": false,
+      "git_status": "Unverified",
+      "repository": null,
+      "lifecycle": "Unassessed"
+    },
+    {
+      "id": "SLA-073",
+      "name": "Portfolio Compass",
+      "portfolio": "Additional projects",
+      "published": true,
+      "git_status": "Unverified",
+      "repository": null,
+      "lifecycle": "Unassessed"
+    },
+    {
+      "id": "SLA-074",
+      "name": "Diamond Architect Hub",
+      "portfolio": "Additional projects",
+      "published": true,
+      "git_status": "Unverified",
+      "repository": null,
+      "lifecycle": "Unassessed"
+    },
+    {
+      "id": "SLA-075",
+      "name": "Clarity Gateway",
+      "portfolio": "Additional projects",
+      "published": true,
+      "git_status": "Unverified",
+      "repository": null,
+      "lifecycle": "Unassessed"
+    },
+    {
+      "id": "SLA-076",
+      "name": "Health Chronicle",
+      "portfolio": "Additional projects",
+      "published": true,
+      "git_status": "Unverified",
+      "repository": null,
+      "lifecycle": "Unassessed"
+    },
+    {
+      "id": "SLA-077",
+      "name": "Mission Architect",
+      "portfolio": "Additional projects",
+      "published": false,
+      "git_status": "Unverified",
+      "repository": null,
+      "lifecycle": "Unassessed"
+    },
+    {
+      "id": "SLA-078",
+      "name": "Discover AI Architects",
+      "portfolio": "Additional projects",
+      "published": true,
+      "git_status": "Unverified",
+      "repository": null,
+      "lifecycle": "Unassessed"
+    },
+    {
+      "id": "SLA-079",
+      "name": "SuperSchool Next",
+      "portfolio": "Additional projects",
+      "published": true,
+      "git_status": "Unverified",
+      "repository": null,
+      "lifecycle": "Unassessed"
+    },
+    {
+      "id": "SLA-080",
+      "name": "Newsletter",
+      "portfolio": "Additional projects",
+      "published": true,
+      "git_status": "Unverified",
+      "repository": null,
+      "lifecycle": "Unassessed"
+    },
+    {
+      "id": "SLA-081",
+      "name": "Work World Guide",
+      "portfolio": "Additional projects",
+      "published": false,
+      "git_status": "Unverified",
+      "repository": null,
+      "lifecycle": "Unassessed"
+    },
+    {
+      "id": "SLA-082",
+      "name": "Credential Hub",
+      "portfolio": "Additional projects",
+      "published": true,
+      "git_status": "Unverified",
+      "repository": null,
+      "lifecycle": "Unassessed"
+    }
+  ]
+}
