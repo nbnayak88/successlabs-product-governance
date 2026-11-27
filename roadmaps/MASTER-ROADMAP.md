@@ -1,0 +1,2 @@
+# ProductOps 108 roadmap
+Week 1: inventory, policy, pilot mapping. Week 2: verify SuperLabs connections and baseline shared architecture. Week 3: remaining retained apps, overlap assessment. Week 4: dashboard, QA and monitoring design. All dates indicative; later phases require approval. Lifecycle: ideation, discovery, prototype, MVP, production, optimize, scale, sustain, retire. Published is not equivalent to production-ready.
