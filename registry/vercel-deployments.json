@@ -1,0 +1,49 @@
+{
+  "snapshot": "2026-11-27",
+  "note": "Vercel deployments are deployment records and should not be counted as separate GitHub products. READY does not independently verify HTTP availability.",
+  "deployments": [
+    {
+      "id": "VERCEL-001",
+      "name": "successlabs-worksphere",
+      "platform": "Vercel",
+      "project_url": "https://vercel.com/success-labs/successlabs-worksphere",
+      "end_user_url": "https://worksphere.successlabsacademy.com/",
+      "github_repository": null,
+      "repository_visibility": "private",
+      "deployment_status": "READY",
+      "deployment_environment": "production",
+      "browser_verification": "unverified",
+      "portfolio_match": "No exact match in prior 223 supplied records; provisional",
+      "private_repository_recorded_off_public_dashboard": true
+    },
+    {
+      "id": "VERCEL-002",
+      "name": "hive-identity-assessment",
+      "platform": "Vercel",
+      "project_url": "https://vercel.com/success-labs/hive-identity-assessment",
+      "end_user_url": "https://hive.successlabsacademy.com/",
+      "github_repository": null,
+      "repository_visibility": "unknown",
+      "deployment_status": "READY",
+      "deployment_environment": "production",
+      "browser_verification": "unverified",
+      "portfolio_match": "No exact match in prior 223 supplied records; provisional",
+      "private_repository_recorded_off_public_dashboard": false
+    },
+    {
+      "id": "VERCEL-003",
+      "name": "epfo-easy",
+      "platform": "Vercel",
+      "project_url": "https://vercel.com/success-labs/epfo-easy",
+      "end_user_url": "https://epfo-easy.vercel.app/",
+      "github_repository": "nbnayak88/epfo-easy",
+      "repository_visibility": "public",
+      "deployment_status": "READY",
+      "deployment_environment": "production",
+      "browser_verification": "unverified",
+      "portfolio_match": "No exact match in prior 223 supplied records; provisional",
+      "deployment_reference": "https://vercel.com/success-labs/epfo-easy/9Dnqn1bru6D5nJzRfVsVncyQKkxA",
+      "private_repository_recorded_off_public_dashboard": false
+    }
+  ]
+}
